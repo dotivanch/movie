@@ -1,6 +1,6 @@
-import { Genre } from './Genre';
+import Genre from './Genre';
 
-export class Show {
+export default class Show {
     id: number;
     title: string;
     overview: string;

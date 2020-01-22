@@ -1,4 +1,4 @@
-export class Season {
+export default class Season {
     air_date: string;
     episode_count: number;
     id: number;

@@ -1,5 +1,5 @@
-import { Genre } from './Show/Genre';
-import { Show } from './Show/Show';
+import Genre from  './Show/Genre';
+import Show from './Show/Show';
 
 class Movie extends Show {
     genres: Genre[];

@@ -1,4 +1,4 @@
-import { Season } from './TVShow/Season';
+import Season from './TVShow/Season';
 
 export class TVShow {
     seasons: Season[];
